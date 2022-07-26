@@ -1,1 +1,1 @@
-// There is no script.
+// There is no Java Script here.
